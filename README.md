@@ -1,6 +1,6 @@
 # Hi, I'm Sajid Hussain 👋
 
-## Cyber Security | Governance, Risk & Compliance (GRC) | Risk Management
+## Cyber Security | Governance, Risk & Compliance (GRC) | Cyber Risk | Information Security Governance
 
 I am a Cyber Security professional with a strong interest in Governance, Risk & Compliance (GRC), Cyber Risk, Information Security Governance, Security Compliance, and Third-Party Risk Management.
 
