@@ -2,11 +2,11 @@
 
 ## Cyber Security | Governance, Risk & Compliance (GRC) | Cyber Risk | Information Security Governance
 
-I am a Cyber Security professional with a strong interest in Governance, Risk & Compliance (GRC), Cyber Risk, Information Security Governance, Security Compliance, and Third-Party Risk Management.
+I am a business leader turned GRC professional, combining 17 years of commercial leadership experience with hands-on cyber governance, risk and compliance delivery.
 
-I have developed practical, portfolio-based GRC projects demonstrating cyber security governance, risk assessment, compliance, security control implementation, and programme development using recognised industry frameworks including NIST CSF, ISO/IEC 27001, and NIST SP 800-53.
+I have developed practical portfolio projects including a NIST CSF cyber security programme and three-year roadmap, a 20-risk enterprise risk register, an ISO/IEC 27001 and NIST SP 800-53 control checklist, and a third-party vendor risk assessment.
 
-I am continuously expanding my knowledge through hands-on projects and professional certifications while pursuing opportunities within Governance, Risk & Compliance.
+I have passed the CISM exam and am currently completing the ISO/IEC 27001 Lead Auditor qualification. I am continuing to develop my practical knowledge while pursuing opportunities in Governance, Risk and Compliance, cyber risk and information security governance.
 
 ---
 
